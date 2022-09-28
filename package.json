@@ -1,0 +1,18 @@
+{
+  "name": "13scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "creditscorecard.info ◄ Get Your FREE Credit Score creditscorecard.info, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "creditscorecard.info",
+    "credit card for credit score 550",
+    "how long does it take for credit score to update",
+    "credit score without credit card",
+    "can credit score be 0"
+  ],
+  "repository": "https://github.com/truelestor/13scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
